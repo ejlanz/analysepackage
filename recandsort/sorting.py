@@ -11,7 +11,7 @@ def bubble_sort(items):
 
 def merge_sort(items):
     '''Return array of items, sorted in ascending order'''
-        len_i = len(items)
+    len_i = len(items)
     # Base case. A list of size 1 is sorted.
     # Cae returns, so if reached then function will terminate after line 8
     if len_i == 1:
