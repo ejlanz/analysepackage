@@ -8,7 +8,7 @@ setup(
     description='EDSA Analyse Hackathon python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/ejlanz/analysepackage',
+    url='https://github.com/ejlanz/analysepackage.git',
     author='Ernest John Lanz',
     author_email='ejlanz.za@gmail.com'
 )

@@ -5,7 +5,7 @@ This library was created for the EDSA Analyse Hackathon and contains sorting and
 'python setup.py sdist'
 
 ## installing this package from Github
-'pip install git+https://github.com/ejlanz/analaysepackage'
+'pip install git+https://github.com/ejlanz/analaysepackage.git'
 
 ## updating this package from Github
-'pip install --upgrade git+https://github.com/ejlanz/analaysepackage'
+'pip install --upgrade git+https://github.com/ejlanz/analaysepackage.git'
